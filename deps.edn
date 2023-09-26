@@ -1,0 +1,5 @@
+{:paths ["src" "resources"],
+ :deps {org.clojure/clojure {:mvn/version "1.7.0"}}
+ :description "A handy collection of algorithms dealing with fuzzy strings and phonetics."
+ :url "http://yomguithereal.github.io/clj-fuzzy/"
+ :license {:name "MIT" :url "http://opensource.org/licenses/MIT"}}
